@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tap tap shot", "Tap tap shot\Tap tap shot.pyproj", "{DD45C92C-B83A-4A2A-8B9D-833550F42FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD45C92C-B83A-4A2A-8B9D-833550F42FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD45C92C-B83A-4A2A-8B9D-833550F42FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98651C20-0839-42B2-841D-AF7FED2CDFA5}
+	EndGlobalSection
+EndGlobal
